@@ -1,11 +1,11 @@
-# API Resource Guideline MAIN
+# API Resource Guideline
 
 Created by: Ray Avila
 Created on: May 17, 2022 5:43 PM
 Document Version: V1
 Last update: May 18, 2022 11:00 AM
 Last update by: Ray Avila
-Repository: test-docs
+Repository: TODO: docs
 
 ## General description
 
